@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Prem</h1>
-<h3 align="center">Backend Developer | Node.js | REST APIs</h3>
+<h1 align="center">Hi 👋, I'm Nishant Thakur</h1>
+<h3 align="center">Backend Developer | Node.js </h3>
 
 <p align="center">
 I build scalable backend systems and APIs with clean architecture.
@@ -8,7 +8,7 @@ I build scalable backend systems and APIs with clean architecture.
 
 ## 🚀 About Me
 
-- 🎓 MCA Student | Backend-focused Developer  
+- 🎓 BACKEND DEVELOPER
 - 🌱 Currently learning **Advanced Backend & System Design**  
 - 🛠️ Building real-world backend projects  
 
@@ -18,7 +18,6 @@ I build scalable backend systems and APIs with clean architecture.
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![C++](https://img.shields.io/badge/C++-blue)
 ![Java](https://img.shields.io/badge/Java-orange)
 
 ### ⚙️ Backend
