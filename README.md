@@ -28,41 +28,36 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Express.js](https://img.shields.io/badge/Express.js-black)
 
-### 🗄️ Database
+### 🗄️ Databases and Scaling
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![SQL](https://img.shields.io/badge/SQL-blue)
+![Redis](https://img.shields.io/badge/Redis-red)
+![BullMQ](https://img.shields.io/badge/BullMQ-red)
 
 ### 🔗 APIs
-![REST](https://img.shields.io/badge/REST-API-orange)
-![Postman](https://img.shields.io/badge/Postman-orange)
+![REST](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-Tool-orange?logo=postman&style=for-the-badge)
+![Bruno](https://img.shields.io/badge/Bruno-API_Tester-blueviolet?logo=bruno&style=for-the-badge)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-API_Tester-lightblue?logo=thunder&style=for-the-badge)
+
 
 ### 🧪 Libraries & Tools
-#### 🔐 Auth & Security
+#### 🔐 Auth, Security & Validation
 ![JWT](https://img.shields.io/badge/JWT-black)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-orange)
 ![Crypto](https://img.shields.io/badge/Crypto-lightgrey)
 ![Helmet](https://img.shields.io/badge/Helmet-black)
 ![Rate Limiter](https://img.shields.io/badge/Rate--Limiter-red)
-
-#### ⚡ Performance & Scaling
-![Redis](https://img.shields.io/badge/Redis-red)
-![BullMQ](https://img.shields.io/badge/BullMQ-red)
-
-#### ✅ Validation
 ![Joi](https://img.shields.io/badge/Joi-blue)
 ![Express Validator](https://img.shields.io/badge/Express--Validator-grey)
 
 #### 📡 Realtime & APIs
 ![WebSockets](https://img.shields.io/badge/WebSockets-blue)
+
+#### Utilities & Integrations
 ![Axios](https://img.shields.io/badge/Axios-purple)
-
-#### 📁 File Handling & Media
 ![Multer](https://img.shields.io/badge/Multer-orange)
-
-#### 💳 Payments
 ![Stripe](https://img.shields.io/badge/Stripe-purple)
-
-#### 📧 Communication
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-green)
 
 #### 🪵 Logging & Monitoring
@@ -77,8 +72,8 @@
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Android Studio](https://img.shields.io/badge/Android--Studio-green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ--IDEA-black)
-## 📫 Connect With Me
 
+## 📫 Connect With Me
 - Email: nishantthakur.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nishant-thakur-dev/
 
