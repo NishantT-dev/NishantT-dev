@@ -1,16 +1,57 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prem</h1>
+<h3 align="center">Backend Developer | Node.js | REST APIs</h3>
 
-<!--
-**NishantT-dev/NishantT-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I build scalable backend systems and APIs with clean architecture.
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 MCA Student | Backend-focused Developer  
+- 🌱 Currently learning **Advanced Backend & System Design**  
+- 🛠️ Building real-world backend projects  
+
+💡 I believe in clean code, scalability, and continuous improvement.
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![C++](https://img.shields.io/badge/C++-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Express.js](https://img.shields.io/badge/Express.js-black)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![SQL](https://img.shields.io/badge/SQL-blue)
+
+### 🔗 APIs
+![REST](https://img.shields.io/badge/REST-API-orange)
+![Postman](https://img.shields.io/badge/Postman-orange)
+
+### 🧪 Libraries & Tools
+![JWT](https://img.shields.io/badge/JWT-black)
+![Redis](https://img.shields.io/badge/Redis-red)
+![WebSockets](https://img.shields.io/badge/WebSockets-blue)
+![Stripe](https://img.shields.io/badge/Stripe-purple)
+![Joi](https://img.shields.io/badge/Joi-blue)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-green)
+
+## 🧰 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-grey)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
+## 📫 Connect With Me
+
+- Email: nishantthakur.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nishant-thakur-dev/
+
+
+
+
+
