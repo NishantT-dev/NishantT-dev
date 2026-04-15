@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Nishant Thakur</h1>
 <h3 align="center">Backend Developer | Node.js </h3>
 
