@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nishant Thakur</h1>
-<h3 align="center">Backend Developer | Node.js </h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#e63946;">Nishant Thakur</span>
+</h1>
+
+<h3 align="center">
+  Backend Developer | Node.js | Scalable APIs
+</h3>
 
 <p align="center">
-I build scalable backend systems and APIs with clean architecture.
+  I specialize in building scalable, secure, and production-ready backend systems using modern technologies and clean architecture principles.
 </p>
 
 ## 🚀 About Me
@@ -32,12 +37,38 @@ I build scalable backend systems and APIs with clean architecture.
 ![Postman](https://img.shields.io/badge/Postman-orange)
 
 ### 🧪 Libraries & Tools
+#### 🔐 Auth & Security
 ![JWT](https://img.shields.io/badge/JWT-black)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-orange)
+![Crypto](https://img.shields.io/badge/Crypto-lightgrey)
+![Helmet](https://img.shields.io/badge/Helmet-black)
+![Rate Limiter](https://img.shields.io/badge/Rate--Limiter-red)
+
+#### ⚡ Performance & Scaling
 ![Redis](https://img.shields.io/badge/Redis-red)
-![WebSockets](https://img.shields.io/badge/WebSockets-blue)
-![Stripe](https://img.shields.io/badge/Stripe-purple)
+![BullMQ](https://img.shields.io/badge/BullMQ-red)
+
+#### ✅ Validation
 ![Joi](https://img.shields.io/badge/Joi-blue)
+![Express Validator](https://img.shields.io/badge/Express--Validator-grey)
+
+#### 📡 Realtime & APIs
+![WebSockets](https://img.shields.io/badge/WebSockets-blue)
+![Axios](https://img.shields.io/badge/Axios-purple)
+
+#### 📁 File Handling & Media
+![Multer](https://img.shields.io/badge/Multer-orange)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-blue)
+
+#### 💳 Payments
+![Stripe](https://img.shields.io/badge/Stripe-purple)
+
+#### 📧 Communication
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-green)
+
+#### 🪵 Logging & Monitoring
+![Morgan](https://img.shields.io/badge/Morgan-grey)
+![Winston](https://img.shields.io/badge/Winston-black)
 
 ## 🧰 Tools & Technologies
 
