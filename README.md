@@ -58,7 +58,6 @@
 
 #### 📁 File Handling & Media
 ![Multer](https://img.shields.io/badge/Multer-orange)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-blue)
 
 #### 💳 Payments
 ![Stripe](https://img.shields.io/badge/Stripe-purple)
@@ -75,6 +74,9 @@
 ![Git](https://img.shields.io/badge/Git-black)
 ![GitHub](https://img.shields.io/badge/GitHub-grey)
 ![VS Code](https://img.shields.io/badge/VSCode-blue)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Android Studio](https://img.shields.io/badge/Android--Studio-green)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ--IDEA-black)
 ## 📫 Connect With Me
 
 - Email: nishantthakur.dev@gmail.com
