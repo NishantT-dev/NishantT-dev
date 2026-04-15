@@ -74,11 +74,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ--IDEA-black)
 
 ## 📫 Connect With Me
-- Email: nishantthakur.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nishant-thakur-dev/
-
-
-## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-nishantthakur.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nishantthakur.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nishant-thakur-dev/)
 
