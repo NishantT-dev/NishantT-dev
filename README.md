@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  I specialize in building scalable, secure, and production-ready backend systems using modern technologies and clean architecture principles.
+  I specialize in building scalable, secure and production-ready backend systems using modern technologies and clean architecture principles.
 </p>
 
 ## 🚀 About Me
