@@ -3,87 +3,115 @@
 </h1>
 
 <h3 align="center">
-  Backend Developer | Node.js | Scalable Systems
+  Backend Developer • Node.js • Scalable Systems
 </h3>
 
 <p align="center">
-  I build scalable, secure, and production-ready backend systems using modern technologies and clean architecture principles.
+  I design and build scalable, secure, and production-ready backend systems 
+  with a strong focus on clean architecture, performance, and reliability.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- Backend Developer focused on **real-world, production-grade systems**
-- Strong foundation in **Node.js, REST APIs, and database design**
-- Currently learning **System Design, Scalability & Distributed Systems**
-- Passionate about **clean architecture, performance optimization, and security**
-- Building projects that simulate **industry-level backend systems**
+- Backend Developer focused on **real-world production systems**
+- Strong in **Node.js, REST APIs, and database design**
+- Currently learning **System Design & Distributed Systems**
+- Interested in **scalability, caching, and performance optimization**
+- Building backend projects that simulate **industry-level architectures**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- JavaScript (ES6+)
-- Java
-
-### ⚙️ Backend Development
-- Node.js
-- Express.js
-
-### 🗄️ Databases & Scalability
-- MongoDB (NoSQL, schema design)
-- SQL (Relational databases)
-- Redis (Caching & performance optimization)
-- BullMQ (Background jobs & queues)
-
-### 🔗 APIs & Testing
-- REST API Design (CRUD, pagination, filtering, versioning)
-- Postman | Bruno | Thunder Client
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java" />
+</p>
 
 ---
 
-## 🧪 Core Backend Skills
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄️ Databases & Scaling
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+  <img src="https://img.shields.io/badge/BullMQ-Queue-red?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+### 🔗 APIs & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://img.shields.io/badge/REST-API-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bruno-API-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ThunderClient-VSCode-blue?style=flat-square"/>
+</p>
+
+---
+
+## 🧪 Backend Expertise
 
 ### 🔐 Authentication & Security
-- JWT-based Authentication
-- Password Hashing (Bcrypt)
-- API Security (Helmet, Rate Limiting)
-- Input Validation (Joi, Express Validator)
+<p>
+  <img src="https://img.shields.io/badge/JWT-Auth-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bcrypt-Hashing-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Helmet-Security-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RateLimit-Protection-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Joi-Validation-blue?style=flat-square"/>
+</p>
+
+---
 
 ### 📡 System Design & Realtime
-- WebSockets (Realtime communication)
-- Scalable API Architecture
-- Queue-based processing (BullMQ + Redis)
+<p>
+  <img src="https://img.shields.io/badge/WebSockets-Realtime-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Architecture-Scalable-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Queues-BullMQ-red?style=flat-square"/>
+</p>
+
+---
 
 ### 🔧 Integrations & Utilities
-- Axios (External APIs)
-- Multer (File uploads)
-- Stripe (Payment integration)
-- Nodemailer (Email services)
+<p>
+  <img src="https://skillicons.dev/icons?i=axios,docker" />
+  <img src="https://img.shields.io/badge/Multer-Uploads-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stripe-Payments-008CDD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nodemailer-Emails-green?style=flat-square"/>
+</p>
+
+---
 
 ### 🪵 Logging & Monitoring
-- Morgan (HTTP logging)
-- Winston (Centralized logging)
+<p>
+  <img src="https://img.shields.io/badge/Morgan-HTTPLogs-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Winston-Logger-black?style=flat-square"/>
+</p>
 
 ---
 
 ## 🧰 Tools & Workflow
-
-- Git & GitHub (Version control & collaboration)
-- Docker (Containerization)
-- VS Code (Development)
-- IntelliJ IDEA & Android Studio
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,idea" />
+  <img src="https://img.shields.io/badge/AndroidStudio-Mobile-3DDC84?style=flat-square"/>
+</p>
 
 ---
 
 ## 📌 What I Focus On
 
-- Writing **clean, maintainable, and scalable code**
-- Designing **robust backend architectures**
-- Handling **real-world problems like concurrency, caching, and failures**
-- Building systems that are **secure, performant, and production-ready**
+- Designing **scalable backend architectures**
+- Writing **clean, maintainable code**
+- Building **secure authentication systems**
+- Optimizing performance using **caching & queues**
+- Handling **real-world backend challenges (failures, concurrency, load)**
 
 ---
 
@@ -91,10 +119,10 @@
 
 <p align="center">
   <a href="mailto:nishantthakur.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nishantthakur.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/nishant-thakur-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -104,14 +132,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&bg_color=ffffff,edf2f4&border_color=cccccc&border_radius=10" 
-    alt="GitHub Stats" 
-    style="border-radius: 10px;"/>
-</p>
-
-<p align="center">
+    src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&border_radius=10" 
+    height="160"
+  />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&theme=default&background=ffffff&ring=4a90e2&fire=e63946&currStreakLabel=2b2d42&border=cccccc&border_radius=10" 
-    alt="GitHub Streak" 
-    style="border-radius: 10px;"/>
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&border_radius=10" 
+    height="160"
+  />
 </p>
