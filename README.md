@@ -18,6 +18,14 @@
 
  I believe in clean code, scalability, and continuous improvement.
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&theme=radical" alt="GitHub Streak"/>
+</p>
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
