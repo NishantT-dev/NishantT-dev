@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-- 🎓 BACKEND DEVELOPER
-- 🌱 Currently learning **Advanced Backend & System Design**  
-- 🛠️ Building real-world backend projects  
+-  BACKEND DEVELOPER
+-  Currently learning **Advanced Backend & System Design**  
+-  Building real-world backend projects  
 
-💡 I believe in clean code, scalability, and continuous improvement.
+ I believe in clean code, scalability, and continuous improvement.
 
 ## 🛠️ Tech Stack
 
