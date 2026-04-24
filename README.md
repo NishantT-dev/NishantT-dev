@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#e63946;">NISHANT THAKUR</span> 
+  Hi, I'm <span style="color:#e63946;">NISHANT THAKUR</span> 👋
 </h1>
 
 <h2 align="center">
@@ -11,71 +11,67 @@
 </p>
 
 ## 🚀 About Me
-
--  BACKEND DEVELOPER
--  Currently learning **Advanced Backend & System Design**  
--  Building real-world backend projects  
-
- I believe in clean code, scalability, and continuous improvement.
+- Backend Developer passionate about clean architecture  
+- Currently learning **Advanced Backend & System Design**  
+- Building real-world backend projects with focus on scalability  
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express.js](https://img.shields.io/badge/Express.js-black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases and Scaling
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![SQL](https://img.shields.io/badge/SQL-blue)
-![Redis](https://img.shields.io/badge/Redis-red)
-![BullMQ](https://img.shields.io/badge/BullMQ-red)
+### 🗄️ Databases & Scaling
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge)
 
-### 🔗 APIs
+### 🔗 APIs & Testing
 ![REST](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-Tool-orange?logo=postman&style=for-the-badge)
-![Bruno](https://img.shields.io/badge/Bruno-API_Tester-blueviolet?logo=bruno&style=for-the-badge)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-API_Tester-lightblue?logo=thunder&style=for-the-badge)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-API_Tester-8A2BE2?style=for-the-badge)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-lightblue?style=for-the-badge)
 
 ### 🧪 Libraries & Tools
 #### 🔐 Auth, Security & Validation
-![JWT](https://img.shields.io/badge/JWT-black)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-orange)
-![Crypto](https://img.shields.io/badge/Crypto-lightgrey)
-![Helmet](https://img.shields.io/badge/Helmet-black)
-![Rate Limiter](https://img.shields.io/badge/Rate--Limiter-red)
-![Joi](https://img.shields.io/badge/Joi-blue)
-![Express Validator](https://img.shields.io/badge/Express--Validator-grey)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-orange?style=for-the-badge)
+![Helmet](https://img.shields.io/badge/Helmet-black?style=for-the-badge)
+![Rate Limiter](https://img.shields.io/badge/Rate--Limiter-red?style=for-the-badge)
+![Joi](https://img.shields.io/badge/Joi-blue?style=for-the-badge)
+![Express Validator](https://img.shields.io/badge/Express--Validator-grey?style=for-the-badge)
 
 #### 📡 Realtime & APIs
-![WebSockets](https://img.shields.io/badge/WebSockets-blue)
+![WebSockets](https://img.shields.io/badge/WebSockets-blue?style=for-the-badge)
 
 #### Utilities & Integrations
-![Axios](https://img.shields.io/badge/Axios-purple)
-![Multer](https://img.shields.io/badge/Multer-orange)
-![Stripe](https://img.shields.io/badge/Stripe-purple)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-green)
+![Axios](https://img.shields.io/badge/Axios-purple?style=for-the-badge)
+![Multer](https://img.shields.io/badge/Multer-orange?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-green?style=for-the-badge)
 
 #### 🪵 Logging & Monitoring
-![Morgan](https://img.shields.io/badge/Morgan-grey)
-![Winston](https://img.shields.io/badge/Winston-black)
+![Morgan](https://img.shields.io/badge/Morgan-grey?style=for-the-badge)
+![Winston](https://img.shields.io/badge/Winston-black?style=for-the-badge)
 
 ## 🧰 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-black)
-![GitHub](https://img.shields.io/badge/GitHub-grey)
-![VS Code](https://img.shields.io/badge/VSCode-blue)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Android Studio](https://img.shields.io/badge/Android--Studio-green)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ--IDEA-black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android--Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ--IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📫 Connect With Me
-[![Email](https://img.shields.io/badge/Email-nishantthakur.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nishantthakur.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nishant-thakur-dev/)
+<p align="center">
+  <a href="mailto:nishantthakur.dev@gmail.com"><img src="https://img.shields.io/badge/Email-nishantthakur.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/nishant-thakur-dev/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -91,5 +87,3 @@
     alt="GitHub Streak" 
     style="border: 1px solid #ccc; border-radius: 10px;"/>
 </p>
-
-
