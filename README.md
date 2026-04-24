@@ -1,14 +1,14 @@
 <h1 align="center">
-  Hi , I'm <span style="color:#e63946;">NISHANT THAKUR</span>
+  Hi, I'm <span style="color:#e63946;">NISHANT THAKUR</span> 👋
 </h1>
 
 <h2 align="center">
-  Backend Developer | Node.js 
+  Backend Developer | Node.js
 </h2>
-<h3>
+
 <p align="center">
   I specialize in building scalable, secure and production-ready backend systems using modern technologies and clean architecture principles.
-</p> </h3>
+</p>
 
 ## 🚀 About Me
 
@@ -18,14 +18,6 @@
 
  I believe in clean code, scalability, and continuous improvement.
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&theme=radical" alt="GitHub Streak"/>
-</p>
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -85,6 +77,15 @@
 [![Email](https://img.shields.io/badge/Email-nishantthakur.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nishantthakur.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nishant-thakur-dev/)
 
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&theme=radical" alt="GitHub Streak"/>
+</p>
 
 
 
