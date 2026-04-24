@@ -77,15 +77,19 @@
 [![Email](https://img.shields.io/badge/Email-nishantthakur.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nishantthakur.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nishant-thakur-dev/)
 
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&bg_color=ffffff,edf2f4&border_color=cccccc&border_radius=10" 
+    alt="GitHub Stats" 
+    style="border: 1px solid #ccc; border-radius: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&theme=radical" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&theme=default&background=ffffff&ring=4a90e2&fire=e63946&currStreakLabel=2b2d42&border=cccccc&border_radius=10" 
+    alt="GitHub Streak" 
+    style="border: 1px solid #ccc; border-radius: 10px;"/>
 </p>
-
 
 
