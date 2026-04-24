@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#e63946;">Nishant Thakur</span> 👋
+  Hi, I'm <span style="color:#e63946;">Nishant Thakur</span> 
 </h1>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
   with a strong focus on clean architecture, performance, and reliability.
 </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - Backend Developer focused on **real-world production systems**
 - Currently learning **System Design & Distributed Systems**
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-Programming-orange?style=flat-square&logo=java&logoColor=white"/>
@@ -27,7 +27,7 @@
 
 ---
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-Framework-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -35,7 +35,7 @@
 
 ---
 
-### 🗄️ Databases & Scaling
+###  Databases & Scaling
 <p>
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -45,7 +45,7 @@
 
 ---
 
-### 🔗 APIs & Testing
+###  APIs & Testing
 <p>
   <img src="https://img.shields.io/badge/REST-API-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Postman-Testing-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
@@ -55,9 +55,9 @@
 
 ---
 
-## 🧪 Backend Expertise
+##  Backend Expertise
 
-### 🔐 Authentication & Security
+###  Authentication & Security
 <p>
   <img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square&logo=jsonwebtokens"/>
   <img src="https://img.shields.io/badge/Bcrypt-Hashing-orange?style=flat-square"/>
@@ -68,7 +68,7 @@
 
 ---
 
-### 📡 System Design & Realtime
+###  System Design & Realtime
 <p>
   <img src="https://img.shields.io/badge/WebSockets-Realtime-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Architecture-Scalable-grey?style=flat-square"/>
@@ -77,7 +77,7 @@
 
 ---
 
-### 🔧 Integrations & Utilities
+###  Integrations & Utilities
 <p>
   <img src="https://img.shields.io/badge/Axios-HTTP-purple?style=flat-square"/>
   <img src="https://img.shields.io/badge/Multer-Uploads-orange?style=flat-square"/>
@@ -87,7 +87,7 @@
 
 ---
 
-### 🪵 Logging & Monitoring
+###  Logging & Monitoring
 <p>
   <img src="https://img.shields.io/badge/Morgan-HTTPLogs-grey?style=flat-square"/>
   <img src="https://img.shields.io/badge/Winston-Logger-black?style=flat-square"/>
@@ -95,7 +95,7 @@
 
 ---
 
-## 🧰 Tools & Workflow
+##  Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -107,7 +107,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:nishantthakur.dev@gmail.com">
@@ -120,7 +120,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img 
