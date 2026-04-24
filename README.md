@@ -11,17 +11,11 @@
   with a strong focus on clean architecture, performance, and reliability.
 </p>
 
----
-
 ## 🚀 About Me
 
 - Backend Developer focused on **real-world production systems**
-- Strong in **Node.js, REST APIs, and database design**
 - Currently learning **System Design & Distributed Systems**
-- Interested in **scalability, caching, and performance optimization**
 - Building backend projects that simulate **industry-level architectures**
-
----
 
 ## 🛠️ Tech Stack
 
