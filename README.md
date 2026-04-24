@@ -107,16 +107,6 @@
 
 ---
 
-## 📌 What I Focus On
-
-- Designing **scalable backend architectures**
-- Writing **clean, maintainable code**
-- Building **secure authentication systems**
-- Optimizing performance using **caching & queues**
-- Handling **real-world backend challenges (failures, concurrency, load)**
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
