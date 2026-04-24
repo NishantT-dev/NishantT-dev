@@ -2,13 +2,13 @@
   Hi , I'm <span style="color:#e63946;">NISHANT THAKUR</span>
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   Backend Developer | Node.js 
-</h3>
-<h5>
+</h2>
+<h4>
 <p align="center">
   I specialize in building scalable, secure and production-ready backend systems using modern technologies and clean architecture principles.
-</p> </h5>
+</p> </h4>
 
 ## 🚀 About Me
 
