@@ -6,11 +6,6 @@
   Backend Developer • Node.js
 </h3>
 
-<p align="center">
-  I design and build scalable, secure, and production-ready backend systems 
-  with a strong focus on clean architecture, performance, and reliability.
-</p>
-
 ## 👨‍💻 About Me
 
 - Backend Developer focused on **real-world production systems**
