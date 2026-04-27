@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Backend Developer • Node.js • Scalable Systems
+  Backend Developer • Node.js
 </h3>
 
 <p align="center">
