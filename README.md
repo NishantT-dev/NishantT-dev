@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#e63946;">👨‍💻 Nishant Thakur</span> 
+  I'm <span style="color:#e63946;">👨‍💻 Nishant Thakur</span> 
 </h1>
 
 <h3 align="center">
