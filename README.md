@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/WebSockets-1E88E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodemailer-34A853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 ### DevOps / Workflow
@@ -81,30 +80,6 @@
 - Background Jobs / Email Queues  
 - Logging / Monitoring / Error Handling  
 - Scalable Backend Architecture Patterns  
-
----
-
-## 🚀 Featured Projects
-
-### Instagram Backend Clone
-Production-style backend featuring:
-
-- JWT Auth + Refresh Tokens  
-- Redis OTP Verification  
-- BullMQ Email Queue  
-- WebSocket Notifications  
-- Cloudinary Media Uploads  
-
----
-
-### E-Commerce Backend
-Production-grade commerce backend featuring:
-
-- Stripe Payment Integration  
-- Role-Based Access Control  
-- Order / Inventory Management  
-- Admin Dashboard APIs  
-- Secure Checkout Flow  
 
 ---
 
