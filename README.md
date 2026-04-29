@@ -1,58 +1,71 @@
 <div align="center">
 
-# 👋 Hi, I'm Nishant Thakur
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nishant+Thakur;Backend+Developer;Node.js+%7C+Scalable+Systems+Engineer" />
 
-### Backend Developer | Node.js | Scalable Systems Engineer
+### Building production-ready backend systems focused on scalability, security, and clean architecture.
 
 <p>
-Building production-ready backend systems focused on scalability, security, and clean architecture.
+  <a href="https://nishant-thakur-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-thakur-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nishantthakur.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel)](https://nishant-thakur-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishant-thakur-dev/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nishantthakur.dev@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- Backend Developer specializing in **Node.js ecosystem**
-- Building **production-style backend architectures**
-- Currently exploring **System Design, Distributed Systems & Scalable Infrastructure**
-- Focused on writing **maintainable, secure, and performant APIs**
+- Backend Developer focused on **real-world production systems**
+- Specialized in **Node.js ecosystem & scalable API architecture**
+- Currently learning **System Design & Distributed Systems**
+- Building backend projects that simulate **industry-level architectures**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=js,java" />
 </p>
 
-### Backend & Frameworks
-<p align="left">
+### Backend Frameworks
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases / Cache / Queues
-<p align="left">
+### Databases / Cache / Messaging
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-  <img src="https://img.shields.io/badge/BullMQ-Queue-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### Security / Auth / Validation
-<p align="left">
-  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Bcrypt-Hashing-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Joi-Validation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rate_Limiting-Security-red?style=for-the-badge" />
+### Authentication / Security / Validation
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bcrypt-F57C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Joi-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Helmet-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rate%20Limit-D32F2F?style=for-the-badge"/>
 </p>
 
-### DevOps / Tools
-<p align="left">
+### Realtime / Integrations
+<p>
+  <img src="https://img.shields.io/badge/WebSockets-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemailer-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
+
+### DevOps / Workflow
+<p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
 
@@ -64,43 +77,46 @@ Building production-ready backend systems focused on scalability, security, and 
 - Authentication / Authorization (JWT, RBAC)  
 - Redis Caching & Queue Processing  
 - WebSockets / Realtime Communication  
-- Payment Gateway Integration (Stripe)  
-- Email Systems / Background Jobs  
+- Payment Gateway Integration  
+- Background Jobs / Email Queues  
 - Logging / Monitoring / Error Handling  
 - Scalable Backend Architecture Patterns  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### Instagram Backend Clone
-Production-style backend with:
-- JWT Auth + Refresh Tokens
-- Redis OTP Verification
-- BullMQ Email Queue
-- WebSockets Notifications
-- Cloudinary Media Uploads
+Production-style backend featuring:
+
+- JWT Auth + Refresh Tokens  
+- Redis OTP Verification  
+- BullMQ Email Queue  
+- WebSocket Notifications  
+- Cloudinary Media Uploads  
 
 ---
 
 ### E-Commerce Backend
-- Stripe Payments
-- Role Based Access
-- Order Management
-- Inventory Handling
-- Admin Dashboard APIs
+Production-grade commerce backend featuring:
+
+- Stripe Payment Integration  
+- Role-Based Access Control  
+- Order / Inventory Management  
+- Admin Dashboard APIs  
+- Secure Checkout Flow  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&border_radius=10" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&border_radius=10" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&border_radius=10" height="165"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-Open to backend opportunities, collaborations, and technical discussions.
+Open to backend developer opportunities, collaborations, and technical discussions.
