@@ -84,12 +84,7 @@
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&border_radius=10" height="165"/>
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&border_radius=10" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&border_radius=10" height="160" /> </p>
 ---
 
 ## 📫 Connect With Me
