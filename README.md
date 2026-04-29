@@ -49,18 +49,20 @@
 
 ### Authentication / Security / Validation
 <p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bcrypt-F57C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Joi-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Helmet-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Rate%20Limit-D32F2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bcrypt-F57C00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Joi-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Helmet-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Rate%20Limit-D32F2F?style=flat-square"/>
 </p>
 
 ### Realtime / Integrations
 <p>
-  <img src="https://img.shields.io/badge/WebSockets-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nodemailer-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-1E88E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemailer-34A853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 </p>
 
 ### DevOps / Workflow
@@ -84,7 +86,7 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&border_radius=10" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantT-dev&border_radius=10" height="160" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&border_radius=10" height="160" /> </p>
 ---
 
 ## 📫 Connect With Me
