@@ -5,6 +5,9 @@
 <h3 align="center">
   Backend Developer • Node.js
 </h3>
+## 🌐 Portfolio
+Check out my backend developer portfolio:  
+[https://nishant-thakur-portfolio.vercel.app/](https://nishant-thakur-portfolio.vercel.app/)
 
 ## 👨‍💻 About Me
 
