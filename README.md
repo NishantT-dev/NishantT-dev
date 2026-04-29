@@ -6,7 +6,7 @@
   Backend Developer • Node.js
 </h3>
 
-## My Portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=flat&logo=vercel)](https://nishant-thakur-portfolio.vercel.app/)
+## My Portfolio Website [![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=flat&logo=vercel)](https://nishant-thakur-portfolio.vercel.app/)
 
 ## 👨‍💻 About Me
 
