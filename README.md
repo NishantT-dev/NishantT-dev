@@ -33,7 +33,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java" />
+  <img src="https://skillicons.dev/icons?i=js,java,ts" />
 </p>
 
 ### Backend Frameworks
