@@ -90,6 +90,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=NishantT-dev&show_icons=true&theme=default&border_radius=10" 
+    alt="GitHub Stats"
     height="160" 
   />
 </p>
