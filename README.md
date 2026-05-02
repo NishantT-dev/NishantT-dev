@@ -84,7 +84,7 @@
 - Scalable Backend Architecture Patterns  
 
 ---
-<--
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
