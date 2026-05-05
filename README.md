@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nishant+Thakur;Backend+Developer+|+Node.js" />
 
-### Building production-ready backend systems focused on scalability, security, and clean architecture.
+### Building production-ready backend systems focused on scalability, security and clean architecture.
 
 <p>
   <a href="https://nishant-thakur-portfolio.vercel.app/">
