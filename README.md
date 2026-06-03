@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@900&size=35&pause=1000&color=E63946&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+NISHANT+THAKUR;Backend+Developer+|+Node.js" />
 
 ### Building production-ready backend systems focused on scalability, security and clean architecture.
